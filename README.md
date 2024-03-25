@@ -2,6 +2,8 @@
 
 This is the official implementation of our CIIGAN for unpaired synthesis of view-consistent surgical video sequences.
 
+![example image](vid1.mp4)
+
 We provided the source code, the model trained on public dataset ChoSeg8K, and 10 3D simulation scenes constructed by us using Blender.
 
 ### Conda Environment Setting

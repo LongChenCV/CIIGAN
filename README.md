@@ -79,7 +79,7 @@ python translate.py
 This paper is under review now. If you use this code, please cite our paper later:
 
 ```
-@InProceedings{LongChen_2024,
+@InProceedings{CIIGAN_2024,
     author    = {Long Chen, Mobarakol Islam, and Thomas Dowrick},
     title     = {Controllable Illumination Invariant GAN for Diverse Temporally-Consistent Surgical Video Synthesis},
 }

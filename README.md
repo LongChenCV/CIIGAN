@@ -35,8 +35,6 @@ cd translation_model
 python translate.py 
 ```
 The results will be saved in the directory test_output
-![example image](example.png)
-
 
 ### Generating Training and Testing Data
 The 3D scenes locate in CIIGAN/simulated_data_generation/ and can be visualized in Blender.

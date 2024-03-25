@@ -19,7 +19,7 @@ Note: Do not use the original python bundled with blender-2.83.20: blender-2.83.
 Use the python in the CIIGAN conda env by adding the codes into python script:
 ```
 import sys 
-sys.path.append('/mnt/storage/home/lchen6/anaconda3/envs/CIIGAN/lib/python3.7/site-packages/')
+sys.path.append('/anaconda3/envs/CIIGAN/lib/python3.7/site-packages/')
 ```
 
 ### Run Quick Demo

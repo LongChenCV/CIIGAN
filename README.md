@@ -32,7 +32,7 @@ cd translation_model
 python translate.py 
 ```
 The results will be saved in the directory test_output
-![example image](example_resized.png)
+![example image](example.png)
 
 
 ### Generating Training and Testing Data

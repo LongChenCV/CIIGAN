@@ -84,8 +84,6 @@ This paper is under review now. If you use this code, please cite our paper late
 }
 ```
 
-This work was carried out at the National Center for Tumor Diseases (NCT) Dresden, [Department of Translational Surgical Oncology](https://www.nct-dresden.de/tso.html) and the Centre for Tactile Internet ([CeTI](https://ceti.one/)) at TU Dresden.
-
 ### License
 
 Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).

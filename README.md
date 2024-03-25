@@ -1,9 +1,8 @@
 ### Controllable Illumination Invariant GAN for Diverse Temporally-Consistent Surgical Video Synthesis
 
 This is the official implementation of our CIIGAN for unpaired synthesis of view-consistent surgical video sequences.
-<img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn1.gif" width="200" height="200"/><br/>
-
-![example video](vid1.gif) ![example video](vid_syn1.gif)
+<img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid1.gif" width="300" height="200"/><br/>
+<img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn1.gif" width="300" height="200"/><br/>
 
 We provided the source code, the model trained on public dataset ChoSeg8K, and 10 3D simulation scenes constructed by us using Blender.
 

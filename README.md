@@ -80,7 +80,7 @@ This paper is under review now. If you use this code, please cite our paper late
 
 ```
 @InProceedings{CIIGAN_2024,
-    author    = {Long Chen, Mobarakol Islam, and Thomas Dowrick},
+    author    = {Long Chen, Mobarakol Islam, Matt Clarkson and Thomas Dowrick},
     title     = {Controllable Illumination Invariant GAN for Diverse Temporally-Consistent Surgical Video Synthesis},
 }
 ```

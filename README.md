@@ -6,7 +6,7 @@ This is the official implementation of our CIIGAN for unpaired synthesis of view
 
 <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid2.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn2.gif" width="300" height="200"/>
 
-<img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid3.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn3.gif" width="300" height="200"/>
+<img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid3.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid3_syn.gif" width="300" height="200"/>
 
 
 </div>

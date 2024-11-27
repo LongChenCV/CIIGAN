@@ -8,9 +8,9 @@ This is the official implementation of our CIIGAN for unpaired synthesis of view
   <strong style="letter-spacing: 100px;">Ours</strong>
 </p>
 <p align="center">
-  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/syn1.gif" alt="AAA" width="300"/>
-  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/baseline1.gif" alt="Figure 2" width="300"/>
-  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/ours1.gif" alt="Figure 3" width="300"/>
+  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/syn1.gif" alt="AAA" width="250"/>
+  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/baseline1.gif" alt="Figure 2" width="250"/>
+  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/ours1.gif" alt="Figure 3" width="250"/>
 </p>
 
 

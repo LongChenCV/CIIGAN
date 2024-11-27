@@ -2,17 +2,31 @@
 
 This is the official implementation of our CIIGAN for unpaired synthesis of view-consistent surgical video sequences.
 
-<div align=center>
-<img src="https://github.com/LongChenCV/CIIGAN/blob/main/syn1.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/baseline1.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/ours1.gif" width="300" height="200"/>
-</div>
+<p align="center">
+  <strong style="letter-spacing: 500px;">Input</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <strong style="letter-spacing: 100px;">Baseline</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <strong style="letter-spacing: 100px;">Ours</strong>
+</p>
+<p align="center">
+  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/syn1.gif" alt="AAA" width="300"/>
+  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/baseline1.gif" alt="Figure 2" width="300"/>
+  <img src="https://github.com/LongChenCV/CIIGAN/blob/main/ours1.gif" alt="Figure 3" width="300"/>
+</p>
 
 
+
+
+<p align="center">
+  <strong style="letter-spacing: 500px;">Input</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <strong style="letter-spacing: 100px;">Ours</strong>
+</p>
 <div align=center>
 <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid1.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn1.gif" width="300" height="200"/>
     
 <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid2.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn2.gif" width="300" height="200"/>
 
 <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid3.gif" width="300" height="200"/>   <img src="https://github.com/LongChenCV/CIIGAN/blob/main/vid_syn3.gif" width="300" height="200"/>
+
 
 </div>
 
